@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdm.lock
+*.egg-info/
+*.egg
+.env
+.venv
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# PySpark / Big files
+*.zip
+*.tar.gz
+*.egg
+*.whl
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
